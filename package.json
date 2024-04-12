@@ -1,5 +1,5 @@
 {
-  "name": "izuku-md",
+  "name": "xeno md",
   "version": "0.0.7",
   "description": "Multi device whatsapp bot by excelottah6.",
   "main": "lib/client.js",
@@ -7,7 +7,7 @@
   "license": "GPL-3.0",
   "scripts": {
     "start": "pm2 start lib/client.js --deep-monitoring --attach --name izuku",
-    "stop": "pm2 stop izuku"
+    "stop": "pm2 stop xeno"
   },
   "author": "excelottah6",
   "dependencies": {
