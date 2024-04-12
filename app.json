@@ -2,7 +2,7 @@
   "name": "XENO MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "thumbnail": "https://telegra.ph/file/d50b71f4b15d8e61ad5e4.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "IzukuBot", "Secktor","IZUKUMD","theme bot","multi device","baileys","excel"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "XENO", "Secktor","XENO MD","theme bot","multi device","baileys","excel"],
   "success_url": "/",
   "stack": "container",
 "env": {
@@ -75,7 +75,7 @@
        "value": "918136810956"
   },
    "SESSION_ID": {
-    "description": "Please put your SESSION_ID here,if you don't have visit https://replit.com/@Excelottah/BLACK-Md"
+    "description": "Please put your SESSION_ID here,if you don't have visit https://replit.com/@xeno/xeno md"
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
@@ -87,8 +87,8 @@
     "value": "mongodb://u1qzbdirbx0okbbilxd9:1AyhrLOOjUtNCUkXtt7@b1lm8egbyxopkmgawxie-mongodb.services.clever-cloud.com:2891/b1lm8egbyxopkmgawxie"
   },
     "THEME": {
-    "description": "Put the theme name you want to use. Avilable themes are IZUKU,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "IZUKU"
+    "description": "Put the theme name you want to use. Avilable themes are XENO MD,XENO SIR,XENO SIR,XENO SIR,XENO and many more..",
+     "value": "Xeno"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -101,7 +101,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "izuku;midoriya",
+     "value": "XENO SIR;XENO",
      "required": false 
   },
   "heroku": {
