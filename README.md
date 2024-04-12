@@ -1,7 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## XENO MD
 XENO MD- Simple whatsapp Multi Device bot based on 
-Xasena 
+Xeno
 
 ***
 
@@ -9,7 +9,7 @@ Xasena
 
 1. Get Session I'D.
     <br>
-<a href='https://ezra-web.onrender.com' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/get_session-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://replit.com/@radithyanhyju/XENO-MD-PAIRNG?v=1#index.js' target="_blank"><img alt='PAIRING CODE' src='https://img.shields.io/badge/get_session-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ***
 ### Deploy
