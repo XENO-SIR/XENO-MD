@@ -12,7 +12,7 @@ global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/' // add your username
 global.sudo = process.env.SUDO || '2347039570336,923466319114'
 global.devs = '2347039570336';
-global.website = 'https://github.com/excelottah6/IZUKU-Md' //wa.me/+91000000000000
+global.website = 'https://github.com/XENO-SIR/XENO MD' //wa.me/+919074739591
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png'
 module.exports = {
   
