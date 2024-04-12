@@ -27,36 +27,9 @@ Xeno
 
 ***
 * Join Group For Help
-<a href="https://chat.whatsapp.com/IZAC43MRvbfClp1nctIOA9"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://chat.whatsapp.com/+919074739591"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
- 
-
-### External-Plugins
-
-<details close>
-<summary>Read More</summary>
-
-<br>
-
-
-* [`External PLUGINS`](https://github.com/Louis-XD/External-Plugins-Ezra)
-
-### Thanks To
-
-<details close>
-<summary>Read More</summary>
-
-<br>
-
-* [`SPARKY`](https://github.com/A-S-W-I-N-S-P-A-R-K-Y)
-* [`LOKI`](https://github.com/Loki-xer)
-
-
- </details>
-
- 
 
