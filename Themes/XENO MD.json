@@ -11,10 +11,10 @@
             "UPDATED_LOCAL": "Fresh Updates Installed!"
         },
         "global": {
-            "botName": " IZUKU MIDORIYA",
+            "botName": "XENO MD",
 
             "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
-            "greet2" : "Hey Onii-Sama",
+            "greet2" : "XENO MD",
             "pic1": "https://telegra.ph/file/be4fad9b026c96936cbfe.jpg",
             "pic2": "https://telegra.ph/file/c2331403fd4d00be93096.jpg",
             "pic3": "https://telegra.ph/file/16a184c6b122ca35a0727.jpg",
@@ -37,8 +37,8 @@
             "antlink": "Link Detected.\n*Good Bye Worthless Piece of shit*",
             "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 IZUKU*",
             "mention": " Please mention any user Onii-Chan",
-            "title": "IZUKU-DEKU",
-            "footer": "Izuku Midoriya",
+            "title": "XENO MD",
+            "footer": "XENO MD",
             "by": "Made by: CitelVoid",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
             "success": "Success ✓",
