@@ -1,7 +1,7 @@
 {
   "name": "XENO MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/d50b71f4b15d8e61ad5e4.jpg",
+  "thumbnail": "https://telegra.ph/file/d50b71f4b15d8e61ad5e4.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "IzukuBot", "Secktor","IZUKUMD","theme bot","multi device","baileys","excel"],
   "success_url": "/",
   "stack": "container",
