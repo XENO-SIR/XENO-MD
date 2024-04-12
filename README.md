@@ -7,7 +7,7 @@ Xeno
 
 ### SETUP
 
-1. Get Session I'D.
+1. PAIRING CODE I'D.
     <br>
 <a href='https://replit.com/@radithyanhyju/XENO-MD-PAIRNG?v=1#index.js' target="_blank"><img alt='PAIRING CODE' src='https://img.shields.io/badge/get_session-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
