@@ -1,18 +1,12 @@
-/**
-██╗███████╗██╗   ██╗██╗  ██╗██╗   ██╗    ███╗   ███╗██████╗ 
-██║╚══███╔╝██║   ██║██║ ██╔╝██║   ██║    ████╗ ████║██╔══██╗
-██║  ███╔╝ ██║   ██║█████╔╝ ██║   ██║    ██╔████╔██║██║  ██║
-██║ ███╔╝  ██║   ██║██╔═██╗ ██║   ██║    ██║╚██╔╝██║██║  ██║
-██║███████╗╚██████╔╝██║  ██╗╚██████╔╝    ██║ ╚═╝ ██║██████╔╝
-╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝     ╚═╝     ╚═╝╚═════╝ 
+/**XENO═╝ ╚═════╝   MD  ╚═╝    WA ╚═╝╚══BOT═══╝ 
                                                             
  Copyright (C) 2022.
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : Secktor-Md
- * @author : SamPandey001 <https://github.com/SamPandey001>
- * @description : Secktor,A Multi-functional whatsapp bot.
+ * @project_name : XENO MD
+ * @author : SamPandey001 <https://github.com/XENO-MD>
+ * @description : xeno,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
 
@@ -26,7 +20,7 @@ const { fromBuffer } = require('file-type');
 //cmd({
     //pattern: 'doc',
     //desc: "convert media to document",
-    //react: "🔂",
+    //react: "🗿",
     //category: 'converter'
 //}, async (Void, citel, match) => {
    // match = (match || "converted-media").replace(/[^A-Za-z0-9]/g, '-');
@@ -347,7 +341,7 @@ filename: __filename,
                 pack: pack, // The pack name
                 author: author, // The author name
                 type: StickerTypes.ROUNDED ,
-                categories: ["🤩", "🎉"], // The sticker category
+                categories: ["🗿", "☯️"], // The sticker category
                 id: "12345", // The sticker id
                 quality: 75, // The quality of the output file
             });
