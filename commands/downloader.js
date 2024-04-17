@@ -3,9 +3,9 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : Secktor-Md
- * @author : SamPandey001 <https://github.com/SamPandey001>
- * @description : Secktor,A Multi-functional whatsapp bot.
+ * @project_name : XENO XD
+ * @author : XENO XD <https://github.com/XENO-SIR>
+ * @description : XENO XD,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/ 
  
@@ -38,7 +38,7 @@ cmd({
             desc: "text to speech.",
             category: "downloader",
             filename: __filename,
-            use: '<Hii,this is izuku>',
+            use: '<Hii,this is XENO XD>',
         },
         async(Void, citel, text) => {
             if (!text) return citel.reply('Please give me a Sentence to change into audio.')
@@ -102,7 +102,7 @@ cmd({
             use: '<808-juice wrld >',
         },
         async(Void, citel, text) => {
-            let yts = require("secktor-pack");
+            let yts = require("xeno-pack");
             let search = await yts(text);
             let anu = search.videos[0];
             let urlYt = anu.url
@@ -368,7 +368,7 @@ cmd({
             let titleYt = infoYt.videoDetails.title;
             let randomName = getRandom(".mp3");
             citel.reply('*Downloadig:* '+titleYt)
-            const stream = ytdl(anu.url, {
+            const stream = ytdl(anu.url, {ki
                     filter: (info) => info.audioBitrate == 160 || info.audioBitrate == 128,
                 })
                 .pipe(fs.createWriteStream(`./${randomName}`));
